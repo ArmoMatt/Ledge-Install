@@ -1,6 +1,6 @@
 cask "ledge" do
-  version "1.4.0"
-  sha256 "21d363adc98fcfcd75e7e04d48955d486928ac2230e0d25f97cd924ad6f0f47b"
+  version "1.5.0"
+  sha256 "5aa55892118f48c82430b6c04ec942013834091cc50dd8c9449ab13b78073398"
 
   url "https://ledgeapp.vercel.app/downloads/Ledge-#{version}.dmg"
   name "Ledge"
